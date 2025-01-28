@@ -22,7 +22,7 @@ IJulia ver. 1.24.2
 Plots ver. 1.40.2
 
 How to use:  
-In the second cell, specify the values of $\tau^M>0$ for the list used in the outer loop.  
+In the second cell, specify the values of $\tau^M>0$ as the list used in the outer loop.  
 Then, specify parameters $\eta>1$, $\sigma>1$, $\tau^A>0$ in the list used in the inner loop.  
 For a set of parameters, five simulations are performed for randomly generated initial values.
 
