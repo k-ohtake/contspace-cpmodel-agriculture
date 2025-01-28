@@ -12,7 +12,7 @@ This repository provides simulation codes for an evolution equation discussed in
 ```
 
 # overview
-Language: Julia ver 1.10.2 
+Language: Julia ver 1.10.2  
 Packages:  
 CSV ver. 0.10.13  
 DataFrames ver. 1.6.1  
