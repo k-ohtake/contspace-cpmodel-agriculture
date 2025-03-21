@@ -1,13 +1,16 @@
 # contspace-cpmodel-agriculture
 
 This repository provides simulation codes for an evolution equation discussed in the following paper.
+I would appreciate your citing the following paper when you publish your results using this code.
 
 ```
-@article{ohtake2022spatial,
+@article{ohtake2025continuous,
   title={Continuous space core-periphery model with transport costs in differentiated agriculture},
   author={Ohtake, Kensuke},
-  journal={arXiv preprint arXiv:2206.01040},
-  year={2022}
+  journal={Portuguese Economic Journal},
+  pages={1--34},
+  year={2025},
+  publisher={Springer}
 }
 ```
 
